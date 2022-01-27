@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*/
+!/Lab*/*.cpp
+!/Lab*/*.c
+!/Lab*/*/*.cpp
+!/Lab*/*/*.hpp
